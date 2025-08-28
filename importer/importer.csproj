@@ -10,4 +10,7 @@
       <PrivateAssets>All</PrivateAssets>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\common\common.csproj" />
+  </ItemGroup>
 </Project>
