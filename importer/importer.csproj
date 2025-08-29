@@ -11,6 +11,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\common\common.csproj" />
+    <ProjectReference Include="..\..\glee\glee.csproj" />
   </ItemGroup>
 </Project>
